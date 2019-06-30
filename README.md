@@ -1,3 +1,3 @@
 # KILOCALOK
 ## Калькулятор калорій на основі визначення кількості зайвого тілесного жиру
-### URL http://kilocalok.com
+URL http://kilocalok.com
